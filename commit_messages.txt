@@ -1,1 +1,4 @@
 Add initial content to index.html and styles.css
+Add detailed content to pizza recipe
+Add detailed content to spaghetti recipe
+Add detailed content to salad recipe
